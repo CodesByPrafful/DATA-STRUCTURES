@@ -1,4 +1,4 @@
-Data Structures Programs Repository
+                                                               DATA STRUCTURES PROGRAM REPOSITORY 
 
 📌 Overview:
 
@@ -30,7 +30,7 @@ PROGRAM 7 - Stack Question Practice 2 (Another stack-based practice question for
 
 1. Clone this repository using:
 
-git clone https://github.com/CodesByPrafful/DATA-STRUCTURES-.git
+git clone https://github.com/CodesByPrafful/DATA-STRUCTURES.git
 
 2. Navigate to the repository folder:
 
@@ -59,4 +59,5 @@ Email:praffulshikhar53@gmail.com
 This repository is open-source and available under the MIT License.
 
 📌 Author: CodesByPrafful
+
 🔗 GitHub: https://github.com/CodesByPrafful
