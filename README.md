@@ -1,4 +1,4 @@
-                                                               DATA STRUCTURES PROGRAM REPOSITORY 
+DATA STRUCTURES PROGRAM REPOSITORY 
 
 📌 Overview:
 
