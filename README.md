@@ -1,8 +1,10 @@
 DATA STRUCTURES PROGRAM REPOSITORY 
 
+
 📌 Overview:
 
 This repository contains seven fundamental programs related to Data Structures. These programs cover essential concepts of Stacks and Queues, including variations such as Circular Queue and Double-Ended Queue. Additionally, the repository includes question-based practice programs to enhance problem-solving skills.
+
 
 📂 Programs Included:
 
@@ -20,11 +22,13 @@ PROGRAM 6 - Stack Question Practice 1 (Stack-based problem-solving exercise).
 
 PROGRAM 7 - Stack Question Practice 2 (Another stack-based practice question for better understanding).
 
+
 🛠️ Technologies Used:
 
 1. Programming Language: Java 
 
 2. Data Structures: Stack, Queue, Deque, Circular Queue
+
 
 🚀 How to Run the Programs:
 
@@ -41,6 +45,7 @@ cd DATA-STRUCTURES
 javac ProgramName.java
 java ProgramName
 
+
 📖 Learning Outcomes:
 
 1. Understanding different types of queues (Normal, Circular, and Double-Ended Queue).
@@ -49,14 +54,17 @@ java ProgramName
 
 3. Improving problem-solving skills with queue and stack-based practice problems.
 
+
 🤝 Contributing:
 
 To make any changes to this repository, please send an email to the provided email ID for approval.
 Email:praffulshikhar53@gmail.com
 
+
 📜 License:
 
 This repository is open-source and available under the MIT License.
+
 
 📌 Author: CodesByPrafful
 
