@@ -8,17 +8,17 @@ This repository contains seven fundamental programs related to Data Structures. 
 
 PROGRAM 1 - Circular Queue (Implementation of a circular queue with enqueue and dequeue operations).
 
-PROGRAM 1 - Double Ended Queue OR Dequeue (A queue where elements can be added or removed from both ends).
+PROGRAM 2 - Double Ended Queue OR Dequeue (A queue where elements can be added or removed from both ends).
 
-PROGRAM 1 - PrintJobs (A problem-solving exercise based on the normal queue structure).
+PROGRAM 3 - PrintJobs (A problem-solving exercise based on the normal queue structure).
 
-PROGRAM 1 - Queue (Standard queue implementation with basic operations).
+PROGRAM 4 - Queue (Standard queue implementation with basic operations).
 
-PROGRAM 1 - Stack (Basic stack implementation using an array or linked list).
+PROGRAM 5 - Stack (Basic stack implementation using an array or linked list).
 
-PROGRAM 1 - Stack Question Practice 1 (Stack-based problem-solving exercise).
+PROGRAM 6 - Stack Question Practice 1 (Stack-based problem-solving exercise).
 
-PROGRAM 1 - Stack Question Practice 2 (Another stack-based practice question for better understanding).
+PROGRAM 7 - Stack Question Practice 2 (Another stack-based practice question for better understanding).
 
 🛠️ Technologies Used:
 
@@ -30,11 +30,11 @@ PROGRAM 1 - Stack Question Practice 2 (Another stack-based practice question for
 
 1. Clone this repository using:
 
-git clone https://github.com/yourusername/repository-name.git
+git clone https://github.com/CodesByPrafful/DATA-STRUCTURES-.git
 
 2. Navigate to the repository folder:
 
-cd repository-name
+cd DATA-STRUCTURES
 
 3. Compile and run the desired program (modify as per language used):
 
@@ -59,4 +59,4 @@ Email:praffulshikhar53@gmail.com
 This repository is open-source and available under the MIT License.
 
 📌 Author: CodesByPrafful
-🔗 GitHub: github.com/CodesByPrafful
+🔗 GitHub: https://github.com/CodesByPrafful
